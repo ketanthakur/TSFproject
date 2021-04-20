@@ -1,4 +1,4 @@
-# BasicBankingSystem
+# Basic Banking System
 Hello ,
 
 Myself Ketansingh Thakur
