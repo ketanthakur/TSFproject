@@ -1,6 +1,8 @@
 # BasicBankingSystem
 Hello ,
+
 Myself Ketansingh Thakur
+
 Sparks Foundation Web Development Internship Project : Basic Banking System website. i.e. "TSF BANK".
 A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
